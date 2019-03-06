@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Horizon:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Horizon_jar</output-path>
+    <root id="archive" name="Horizon.jar">
+      <element id="module-output" name="Horizon" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/mariuszgromada/math/MathParser.org-mXparser/4.2.0/MathParser.org-mXparser-4.2.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
